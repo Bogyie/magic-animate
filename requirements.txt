@@ -111,5 +111,4 @@ lpips
 ffmpeg-python
 torch==2.0.1
 torchvision==0.15.2
-xformers==0.0.22
 diffusers==0.21.4
